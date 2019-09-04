@@ -1,0 +1,21 @@
+{
+  "name": "papackino",
+  "version": "1.0.3",
+  "description": "A cli tool for papacking all static content into one single html file.",
+  "main": "index.js",
+  "bin": {
+    "papackino": "./index.js"
+  },
+  "files": ["index.js"],
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bundle", "package", "page", "html", "all-in-one", "all-in-1"],
+  "author": "https://github.com/hydraslay",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^1.1.16"
+  }
+}

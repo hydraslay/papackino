@@ -1,0 +1,6 @@
+test
+node_modules
+/**/.DS_Store
+index.html
+yarn.lock
+.vscode/
