@@ -1,6 +1,6 @@
 {
   "name": "papackino",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A cli tool for papacking all static content into one single html file.",
   "main": "index.js",
   "bin": {
