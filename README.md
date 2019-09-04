@@ -3,7 +3,7 @@ bundle your bundled bundle to a single file mono-bundle.
 
 # install
 ```
-npm -g papackino
+npm install -g papackino
 ```
 
 # usage
