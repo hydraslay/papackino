@@ -41,8 +41,8 @@ async function writeDom(node, stream) {
             function require(){
                 return {
                     ipcRenderer: {
-                        on: function(){},
-                        send: function(){}
+                        on: {},
+                        send: {}
                     }
                 }
             }
